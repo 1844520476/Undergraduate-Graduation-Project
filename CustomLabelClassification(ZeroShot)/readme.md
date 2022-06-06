@@ -26,7 +26,8 @@ VLP是一个多模态的视觉语言项目：
 
 ## ps.如果您觉得配置环境实在不好搞，不要怕，以下是配置好的conda环境（前提是您要安装有Anaconda3）:
 
-clip.zip（百度网盘链接：）
+clip.zip（百度网盘链接：链接：https://pan.baidu.com/s/1I-Fe4FiuIzFR6fRoa5JcPA?pwd=r03a 
+提取码：r03a）
 
 1.解压clip.zip到Anaconda3\envs中
 

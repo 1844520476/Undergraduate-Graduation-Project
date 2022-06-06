@@ -14,3 +14,16 @@
 #### (3) Composite image labeling system based on object detection network and multimodal migratory classification network: the basic idea is to first use object detection network to achieve localization to remove redundancy and preliminary classification, and then use a migratory vision model based on multimodal supervised signal to customize text labels to achieve secondary classification. This chapter independently writes and optimizes the composite annotation system based on the above network model, and successfully implements several automatic annotation extension applications including multi-object dynamic emotion recognition and color classification.
 
 #### Key Words:  Transfer learning; Automatic; image annotation; Object detection; Twin networks; Few-shot learning; Multi-modal   
+
+### 第三章 循环辅助标注
+#### 1.整体
+#### ![图3 16](https://user-images.githubusercontent.com/45304468/172265876-b74742c2-1e2b-4553-bfda-896540355213.jpg)
+#### 2.单次
+#### ![图3 5](https://user-images.githubusercontent.com/45304468/172266019-5fe33848-21ef-46d9-8726-4da12df4ff7e.jpg)
+
+
+### 第四章 孪生网络小样本分类
+#### ![图4 3](https://user-images.githubusercontent.com/45304468/172265956-03df071d-5e56-4bc7-83b7-655fde711ad8.jpg)
+
+
+

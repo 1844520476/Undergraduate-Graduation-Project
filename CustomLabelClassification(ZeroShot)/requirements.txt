@@ -1,0 +1,9 @@
+ftfy~=6.1.1
+regex~=2022.1.18
+tqdm~=4.62.3
+torch~=1.10.2
+torchvision~=0.11.3
+
+pillow~=9.0.1
+numpy~=1.22.2
+setuptools~=58.0.4

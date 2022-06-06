@@ -1,0 +1,23 @@
+ #必须是#,不能是“”“”“”
+ # 1. Augmented machinery datasets :
+# 1.1 30-100shots total 420 photos
+# 1.2 same photos Augmented
+#
+# 2. Example usage:
+# root
+# └── datasets
+#     └── Aug2  ← put here
+
+#Path
+path: ./datasets/Aug100to400  # dataset root dir
+train: images/train  # train images (relative to 'path') 128 images
+val: images/val # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+nc: 6  # number of classes
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']  # class names
+
+
+# Download script/URL (optional)
+#Original datasets :https://www.kaggle.com/datasets/kaustubhdikshit/neu-surface-defect-database ,then reorganized

@@ -1,0 +1,5 @@
+[default]
+entity = cleste42
+project = labelyolo
+base_url = https://api.wandb.ai
+

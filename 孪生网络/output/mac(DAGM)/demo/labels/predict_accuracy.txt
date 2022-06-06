@@ -1,0 +1,4 @@
+system_time: 2022_05_25 16_01_26
+predict_accuracy: 100.00 %
+system_time: 2022_05_25 16_01_53
+predict_accuracy: 100.00 %

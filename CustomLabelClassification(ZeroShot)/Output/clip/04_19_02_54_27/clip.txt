@@ -1,0 +1,6 @@
+black cat:出现16次
+frog:出现12次
+pretty dog:出现8次
+big face:出现6次
+bird:出现5次
+person:出现5次

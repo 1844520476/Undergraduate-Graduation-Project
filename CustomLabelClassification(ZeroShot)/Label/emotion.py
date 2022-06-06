@@ -1,0 +1,30 @@
+emotion_label = {
+                 '0': 'happy',
+                 '1': 'angry',
+                 '2': 'fear',
+                 '3': 'surprise',
+                 '4': 'sad',
+                 '5': 'anxiety',
+                 '6': 'awe',
+                 '7': 'embarrassment',
+                 '8': 'bored',
+                 '9': 'calm',
+                 '10': 'confusion',
+                 '11': 'disappointment',
+                 }
+
+emotional_dict = {
+    'happy': '高兴',
+    'angry': '愤怒',
+    'fear': '恐惧',
+    'surprise': '惊讶',
+    'sad': '伤心',
+    'anxiety': '焦虑',
+    'awe': '惊叹',
+    'embarrassment': '尴尬',
+    'bored': '无聊',
+    'calm': '平静',
+    'confusion': '困惑',
+    'contempt': '轻蔑',
+    'disappointment': '失望',
+}

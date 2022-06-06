@@ -1,0 +1,8 @@
+person:出现33次
+face:出现14次
+ship:出现7次
+cat:出现1次
+dog:出现1次
+truck:出现1次
+frog:出现1次
+horse:出现1次

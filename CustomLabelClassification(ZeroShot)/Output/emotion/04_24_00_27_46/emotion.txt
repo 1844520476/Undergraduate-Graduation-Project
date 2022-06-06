@@ -1,0 +1,11 @@
+happy:出现15次
+angry:出现14次
+bored:出现12次
+sad:出现6次
+surprise:出现4次
+disappointment:出现2次
+awe:出现2次
+pride:出现1次
+calm:出现1次
+anxiety:出现1次
+embarrassment:出现1次

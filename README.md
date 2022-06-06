@@ -20,13 +20,20 @@
 #### ![图3 16](https://user-images.githubusercontent.com/45304468/172265876-b74742c2-1e2b-4553-bfda-896540355213.jpg)
 #### 2.单次
 #### ![图3 5](https://user-images.githubusercontent.com/45304468/172266019-5fe33848-21ef-46d9-8726-4da12df4ff7e.jpg)
+#### 3.标注效果
+#### ![图3 18](https://user-images.githubusercontent.com/45304468/172266544-aed1e781-57a9-442f-94c3-eb42e78ec71d.png)
 
 
-### 第四章 孪生网络小样本分类
+
+### 第四章 孪生网络
+#### 1.小样本分类
 #### ![图4 2](https://user-images.githubusercontent.com/45304468/172266232-2861070b-c69c-4f99-96fc-4e152ec7355e.jpg)
 
-#### 纹理数据集相似度对比结果
+#### 2纹理数据集相似度对比结果
 #### ![图4 3](https://user-images.githubusercontent.com/45304468/172265956-03df071d-5e56-4bc7-83b7-655fde711ad8.jpg)
+
+#### 3.自动标注效果
+#### <img width="1085" alt="图4 5" src="https://user-images.githubusercontent.com/45304468/172266610-cd127dbb-9c1d-4fc6-8418-541a01fda206.png">
 
 ### 第五章 复合标注系统
 #### 多目标人物情绪识别

@@ -23,7 +23,18 @@
 
 
 ### 第四章 孪生网络小样本分类
+#### ![图4 2](https://user-images.githubusercontent.com/45304468/172266232-2861070b-c69c-4f99-96fc-4e152ec7355e.jpg)
+
+#### 纹理数据集相似度对比结果
 #### ![图4 3](https://user-images.githubusercontent.com/45304468/172265956-03df071d-5e56-4bc7-83b7-655fde711ad8.jpg)
+
+### 第五章 复合标注系统
+#### 多目标人物情绪识别
+#### ![图5 5_1](https://user-images.githubusercontent.com/45304468/172266117-a86d2ea1-e1b5-4de0-9cde-afe59da62de2.jpg)
+
+#### 人物肢体与面部情绪识别
+#### ![图5 7](https://user-images.githubusercontent.com/45304468/172266192-f0c8d6d4-0c49-4047-b79e-9c684c766ad4.png)
+
 
 
 

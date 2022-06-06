@@ -30,6 +30,9 @@
 
 ### 第五章 复合标注系统
 #### 多目标人物情绪识别
+
+#### <img width="398" alt="image" src="https://user-images.githubusercontent.com/45304468/172266412-72a72add-970e-4105-9b44-e560512e78a4.png">
+
 #### ![图5 5_1](https://user-images.githubusercontent.com/45304468/172266117-a86d2ea1-e1b5-4de0-9cde-afe59da62de2.jpg)
 
 #### 人物肢体与面部情绪识别

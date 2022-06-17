@@ -46,5 +46,7 @@
 #### ![图5 7](https://user-images.githubusercontent.com/45304468/172266192-f0c8d6d4-0c49-4047-b79e-9c684c766ad4.png)
 
 
+版权声明：本文为Github用户cleste「1844520476」的原创内容，遵循CC 4.0 BY-SA版权协议，转载请附上原始出处链接及本声明。
+原始链接：https://github.com/1844520476/Undergraduate-Graduation-Project
 
 
